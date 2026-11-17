@@ -1,0 +1,1 @@
+void main() {String nome = "notebook"; double preco = 3500; int quantidade = 20; bool em_estoque = true; print("nome: $nome\nPreço: "+r"R$"+"$preco\nEm estoque: $em_estoque\nQuantidade: $quantidade");}

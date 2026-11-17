@@ -6,4 +6,7 @@ void main() {
   print(
     "Meu nome é $nome\nIdade: $idade anos\nAltura: $altura\naluno: $estudante",
   );
+
+  const pi = 3.141592;
+  final ano = 2026;
 }

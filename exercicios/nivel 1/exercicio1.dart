@@ -1,6 +1,7 @@
-//nome, idade, altura
-
 void main() {
+  //Ficha pessoal. Guarde nome, idade, altura e se você trabalha ( bool ). Imprima uma
+  //ficha organizada, uma informação por linha, usando interpolação.
+
   String nome = "Jorge";
   int idade = 20;
   double altura = 1.80;
